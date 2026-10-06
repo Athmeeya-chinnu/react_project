@@ -1,0 +1,27 @@
+h1{
+    color: palevioletred;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+#id{
+    color: blueviolet;
+}
+h4{
+    line-height: 2px;
+    text-decoration:underline ;
+    font-style: italic;
+}
+button{
+    color: rgb(49, 49, 36);
+    background-color: rgb(214, 133, 28);
+    
+    border-radius: 4px;
+    border: 3px solid ;
+    border-color: blueviolet;
+}
